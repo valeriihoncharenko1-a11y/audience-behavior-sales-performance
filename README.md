@@ -1,6 +1,6 @@
 **Goal**: 
 The objective of this project was to analyze user behavior and sales performance to identify patterns in revenue dynamics, user conversion, and purchasing activity across devices and traffic channels. The analysis aimed to evaluate the registration-to-purchase funnel, explore differences between user segments, and identify potential opportunities for improving conversion and revenue performance.
-
+ 
 
 **Conclusions**:
 
