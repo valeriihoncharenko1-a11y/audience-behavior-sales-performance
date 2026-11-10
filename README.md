@@ -30,6 +30,8 @@ The conversion rate from registered users to paying users was approximately 9.95
 
 *Statistical Insights*: The statistical tests identified no statistically significant differences in order value across countries, browsers, subscriptions, devices, or traffic channels, whereas session volume and revenue demonstrate a statistically significant correlation, and daily sales show a statistically significant difference across traffic channels.
 
+<img width="1828" height="696" alt="image" src="https://github.com/user-attachments/assets/0d5c62ab-0869-4294-bfc0-3b682de8eff9" />
+<img width="1825" height="668" alt="image" src="https://github.com/user-attachments/assets/5caa1381-dc2f-4eb7-9ba2-d6f6ee51b262" />
 
 
 **Link to dashboard**:
