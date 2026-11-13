@@ -23,6 +23,7 @@ The analysis identified several patterns in sales performance and user behavior.
 The United States is the dominant market, generating both the highest number of shopper sessions and the largest share of total revenue, falling into Category A. India and Canada are the next-largest markets, though at a fraction of US volume.
 
 *Conversion Funnel*: 
+Traffic to purchase funnel showed 9.4 conversion rate wich is solid positive outcome.
 The conversion rate from registered users to paying users was approximately 9.95%, highlighting the registration-to-purchase journey as a key area for further investigation.
 
 
