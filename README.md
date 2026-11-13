@@ -11,8 +11,8 @@ The objective of this project was to analyze user behavior and sales performance
 Sofas & armchairs, Chairs, Beds, Bookcases & shelving units and Cabinets & cupboards form class A and generate about 80% of revenue. Sofas and Chairs lead in both sales volume and revenue. Bookcases lead in volume but are lower in revenue because of a low price, while Beds contribute to revenue through high-ticket sales.
 
 *Assortment Optimization*: 
-By revenue, Bar furniture and Children’s furniture fall into class C. Children’s furniture has mid-table sales volume but low revenue due to low prices. Along with Nursery furniture, Café furniture, Sideboards and Room dividers, these categories together contribute only a small share of revenue.It is recommended to review their marketing strategy or optimize production.
-
+By revenue, Bar furniture and Children’s furniture fall into class C. Children’s furniture has mid-table sales volume but low revenue due to low prices. Along with Nursery furniture, Café furniture, Sideboards and Room dividers, these categories together contribute only a small share of revenue.
+Recommened to analyse the conversion rates and traffic for Class C categories: reduce spending on their promotion in favour of Class A, retaining only those listings that act as entry points for new customers
 
 ***Marketing & Geography***:
 
