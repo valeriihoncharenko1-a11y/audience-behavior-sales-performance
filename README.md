@@ -17,7 +17,7 @@ Recommened to analyse the conversion rates and traffic for Class C categories: r
 ***Marketing & Geography***:
 
 *Traffic & Revenue Relationship*: 
-The analysis identified several patterns in sales performance and user behavior. Weekly revenue generally followed sales volume, with a peak in early December followed by a decline, suggesting that traffic volume may be an important driver of revenue fluctuations. Desktop generated a substantial volume of purchasing sessions, while Organic Search and Paid Search accounted for the largest shares among the displayed traffic channels. However, these volume metrics alone do not establish which devices or channels perform most efficiently.
+The analysis identified several patterns in sales performance and user behavior. Weekly revenue generally followed sales volume, with a peak in early December followed by a decline.Revenue correlates strongly with the total number of sessions, so to increase it, you should scale traffic specifically from those channels that are already showing high conversion rates, whilst monitoring the CR (Conversion Rate) Desktop generated a substantial volume of purchasing sessions, while Organic Search and Paid Search accounted for the largest shares among the displayed traffic channels. However, these volume metrics alone do not establish which devices or channels perform most efficiently.
 
 *Regional Optimization & Markets*: 
 The United States is the dominant market, generating both the highest number of shopper sessions and the largest share of total revenue, falling into Category A. India and Canada are the next-largest markets, though at a fraction of US volume.
